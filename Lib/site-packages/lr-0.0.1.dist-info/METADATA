@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: lr
+Version: 0.0.1
+Summary: lr
+Home-page: https://pypi.org/project/lr/
+Author: anycode
+Author-email: anycode@yahoo.com
+Maintainer: anycode
+Maintainer-email: anycode@yahoo.com
+License: UNKNOWN
+Platform: all
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Description-Content-Type: text/markdown
+
+# lr
+
+

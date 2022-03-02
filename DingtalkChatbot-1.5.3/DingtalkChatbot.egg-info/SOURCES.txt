@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+DingtalkChatbot.egg-info/PKG-INFO
+DingtalkChatbot.egg-info/SOURCES.txt
+DingtalkChatbot.egg-info/dependency_links.txt
+DingtalkChatbot.egg-info/requires.txt
+DingtalkChatbot.egg-info/top_level.txt
+dingtalkchatbot/__about__.py
+dingtalkchatbot/__init__.py
+dingtalkchatbot/chatbot.py
+dingtalkchatbot/chatbot_test.py
+dingtalkchatbot/samples.py
